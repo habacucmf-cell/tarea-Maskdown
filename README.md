@@ -1,6 +1,6 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Balmes Solis Leonardo
+## Alumno: David Habacuc Mandujano Franco
 ## Actividad \#16 - Matrices doc
 
 ---
